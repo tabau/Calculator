@@ -167,7 +167,7 @@
         android:layout_marginLeft="8dp"
         android:layout_marginStart="8dp"
         android:minWidth="48dip"
-        android:text="÷"
+        android:text="/"
         app:layout_constraintBaseline_toBaselineOf="@+id/button9"
         app:layout_constraintLeft_toRightOf="@+id/button9" />
 
